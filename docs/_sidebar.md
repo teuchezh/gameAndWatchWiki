@@ -12,8 +12,8 @@
 - [ROMS]()  
   - [Compatibility](roms/compatibility.md)  
 
-- [FAQ]()  
-  - [FAQ](faq/faq.md)  
+- [FAQ](faq/faq.md)  
+  - [FAQ](faq/qa.md)  
   - [GitHub Repos](faq/githubrepos.md)  
   - [Controls](faq/gwcontrols.md)  
   - [Play](faq/play.md)  

@@ -1,6 +1,6 @@
 # Detailed Hardware Information
 
-+ [Buttons](./buttons.md)
++ [Buttons](./hardware/buttons.md)
 + [Datasheets](./hardware/datasheets.md)
 + [Display](./hardware/display.md)
 + [GPIO](./hardware/gpio.md)
