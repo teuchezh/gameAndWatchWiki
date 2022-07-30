@@ -27,10 +27,10 @@
 
       window.$docsify = {
         basePath: '/docs/',
-        alias: {
-          '/ru-ru/(.*)':
-            'https://raw.githubusercontent.com/teuchezh/docs-ru/master/$1',
-        },
+        // alias: {
+        //   '/ru-ru/(.*)':
+        //     'https://raw.githubusercontent.com/teuchezh/docs-ru/master/$1',
+        // },
         name: 'G&W Wiki',
         auto2top: true,
         notFoundPage: true,
@@ -39,27 +39,27 @@
         mergeNavbar: true,
         maxLevel: 4,
         subMaxLevel: 2,
-        nameLink: {
-          '/ru-ru/': '#/ru-ru/',
-          '/': '#/',
-        },
+        // nameLink: {
+        //   '/ru-ru/': '#/ru-ru/',
+        //   '/': '#/',
+        // },
         search: {
           maxAge: 86400000, // Expiration time, the default one day
           paths: 'auto',
           noData: {
-            '/ru-ru/': 'Никаких результатов!',
+            // '/ru-ru/': 'Никаких результатов!',
             '/': 'No results!',
           },
           placeholder: {
-            '/ru-ru/': 'Поиск',
+            // '/ru-ru/': 'Поиск',
             '/': 'Search',
           },
-          pathNamespaces: ['/ru-ru'],
+          // pathNamespaces: ['/ru-ru'],
         },
       };
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    <script src="/lib/plugins/search.js"></script>
+    <script src="/src/plugins/search/search.js"></script>
   </body>
 </html>

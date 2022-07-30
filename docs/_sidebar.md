@@ -20,8 +20,7 @@
   - [Game & Watch Aftermarket Supplies](faq/supplies.md)  
   - [Troubleshooting](faq/troubleshooting.md)  
 
-- [HARDWARE]()  
-  - [Hardware](hardware/hardware.md)
+- [HARDWARE](hardware/hardware.md)  
   - [Buttons](hardware/buttons.md)  
   - [Datasheets](hardware/datasheets.md)  
   - [Display](hardware/display.md)  
