@@ -1,0 +1,2 @@
+- Translations
+  - [:ru: Русский](/ru-ru/)
