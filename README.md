@@ -14,4 +14,5 @@ I just wanted to translate the information into a more convenient format.
 + [Controls/Button Macros](faq/gwcontrols.md)
 + [Troubleshooting](faq/troubleshooting.md)
 + [GitHub Repos](faq/githubrepos.md)
-+ [Game & Watch Aftermarket Supplies]()
++ [Game & Watch Aftermarket Supplies](/faq/supplies.md)
++ [Play LCD Games Online Here](faq/play.md)
