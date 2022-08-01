@@ -16,23 +16,23 @@ Some solder wick and flux will go along way in both the chips removal, and when 
 
 The following NOR flash chips are compatible with the stock firmware that ships on the device. These chips are recommended as they require no additional modifications.
 
-| Manufacture | Size           | Voltage | Socket | Model              | Link    |           |
-| ----------- | -------------- | ------- | ------ | ------------------ | ------- | --------- |
-| Macronix    | 64Mbit (8MB)   | 1.8V    | 8SOP   | MX25U6432FM2I02    | BUY NOW | IN STOCK! |
-| Macronix    | 128Mbit (16MB) | 1.8V    | 8SOP   | MX25U12835FM2I-10G | BUY NOW | IN STOCK! |
-| Macronix    | 128Mbit (16MB) | 1.8V    | 8SOP   | MX25U12832FM2I02   | BUY NOW | IN STOCK! |
-| Macronix    | 256Mbit (32MB) | 1.8V    | *8WSON | MX25U25635FZ2I-10G | BUY NOW | IN STOCK! |
-| Macronix    | 512Mbit (64MB) | 1.8V    | *8WSON | MX25U51245GZ4I00   | BUY NOW | IN STOCK! |
+| Manufacture | Size           | Voltage | Socket | Model              | Link                                                           |           |
+| ----------- | -------------- | ------- | ------ | ------------------ | -------------------------------------------------------------- | --------- |
+| Macronix    | 64Mbit (8MB)   | 1.8V    | 8SOP   | MX25U6432FM2I02    | [BUY NOW](https://www.findchips.com/search/MX25U6432FM2I02)    | IN STOCK! |
+| Macronix    | 128Mbit (16MB) | 1.8V    | 8SOP   | MX25U12835FM2I-10G | [BUY NOW](https://www.findchips.com/search/MX25U12835FM2I-10G) | IN STOCK! |
+| Macronix    | 128Mbit (16MB) | 1.8V    | 8SOP   | MX25U12832FM2I02   | [BUY NOW](https://www.findchips.com/search/MX25U12832FM2I02)   | IN STOCK! |
+| Macronix    | 256Mbit (32MB) | 1.8V    | *8WSON | MX25U25635FZ2I-10G | [BUY NOW](https://www.findchips.com/search/MX25U25635FZ2I-10G) | IN STOCK! |
+| Macronix    | 512Mbit (64MB) | 1.8V    | *8WSON | MX25U51245GZ4I00   | [BUY NOW](https://www.findchips.com/search/MX25U51245GZ4I00)   | IN STOCK! |
 *8WSON chips are difficult to solder, Hot Air Station highly recommended!
 
 ## Custom Firmware Compatible
 
 The following flash chips do not work with the stock firmware. You should avoid using these chips if possible. If you have to pick one, for the moment I would recommend the IS25WP128F-JBLE.
 
-| Manufacture                 | Size           | Voltage | Socket | Model           | Link    |           |
-| --------------------------- | -------------- | ------- | ------ | --------------- | ------- | --------- |
-| Integrated Silicon Solution | 128Mbit (16MB) | 1.8V    | 8SOP   | IS25WP128F-JBLE | BUY NOW | IN STOCK! |
-| WINBOND                     | 128Mbit (16MB) | 1.8V    | 8SOP   | W25Q128FWSIG    | BUY NOW |
+| Manufacture                 | Size           | Voltage | Socket | Model           | Link                                                         |           |
+| --------------------------- | -------------- | ------- | ------ | --------------- | ------------------------------------------------------------ | --------- |
+| Integrated Silicon Solution | 128Mbit (16MB) | 1.8V    | 8SOP   | IS25WP128F-JBLE | [BUY NOW](https://www.findchips.com/search/IS25WP128F-JBLE)  | IN STOCK! |
+| WINBOND                     | 128Mbit (16MB) | 1.8V    | 8SOP   | W25Q128FWSIG    | [BUY NOW](https://www.findchips.com/search/MX25U51245GZ4I00) |
 
 ## INCOMPATIBLE CHIPS
 

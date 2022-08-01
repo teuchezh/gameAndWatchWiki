@@ -3,13 +3,14 @@
 
 Emulators
 
-| Name         | Description                             | Link                                                         |
-| ------------ | --------------------------------------- | ------------------------------------------------------------ |
-| retro-go     | Multi-system Emulator based on retro-go | [Link](https://github.com/kbeckmann/game-and-watch-retro-go) |
-| chip8swemu   | Chip-8 Emulator                         | [Link](https://github.com/AlfonsoJLuna/chip8swemu/)          |
-| gnw_ohboy    | Game Boy Emulator by Tim Schuerewegen   | [Link](https://github.com/timschuerewegen/gnw_ohboy)         |
-| gnw_gearboy  | Game Gear Emulator by Tim Schuerewegen  | [Link](https://github.com/timschuerewegen/gnw_gearboy)       |
-| gnw_pokemini | Pokemini Emulator by Tim Schuerewegen   | [Link](https://github.com/timschuerewegen/gnw_pokemini)      |
+| Name         | Description                                     | Link                                                                         |
+| ------------ | ----------------------------------------------- | ---------------------------------------------------------------------------- |
+| retro-go     | Fork of retro-go by kbeckmann. Supports SEGA MD | [Link](https://github.com/olderzeus/game-and-watch-retro-go/tree/A7800Patch) |
+| retro-go     | Multi-system Emulator based on retro-go         | [Link](https://github.com/kbeckmann/game-and-watch-retro-go)                 |
+| chip8swemu   | Chip-8 Emulator                                 | [Link](https://github.com/AlfonsoJLuna/chip8swemu/)                          |
+| gnw_ohboy    | Game Boy Emulator by Tim Schuerewegen           | [Link](https://github.com/timschuerewegen/gnw_ohboy)                         |
+| gnw_gearboy  | Game Gear Emulator by Tim Schuerewegen          | [Link](https://github.com/timschuerewegen/gnw_gearboy)                       |
+| gnw_pokemini | Pokemini Emulator by Tim Schuerewegen           | [Link](https://github.com/timschuerewegen/gnw_pokemini)                      |
 
 More projects by Tim Schuerewegen
 
